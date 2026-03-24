@@ -14,6 +14,3 @@
 
 [linkedin]: https://www.linkedin.com/in/rainon-warren/
 
-
-- ⚡ Fun fact: ...
--->
