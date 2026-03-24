@@ -1,9 +1,9 @@
 <h1>Hi, I'm Rainon! 
   
-<h2>👨‍💻 I Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b> Active Directory Home Lab in Azure </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Windows Server Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
 
