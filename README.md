@@ -1,5 +1,5 @@
-<h1>Hi, I'm Rainon! <br/><"a href=https://www.linkedin.com/in/rainon-warren/">Programmer</a>, <a href="">IT Professional </a> </h1>
-
+<h1>Hi, I'm Rainon! 
+  
 <h2>👨‍💻 I Projects:</h2>
 
 - <b> Active Directory Home Lab in Azure </b>
