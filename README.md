@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b> Active Directory Home Lab in Azure </b>
-  - [Practicing Windows Server Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab]()
 
 <h2>Certifications</h2>
 
