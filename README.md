@@ -6,7 +6,8 @@
   - [Active Directory Home Lab](https://github.com/raivenwarren/activedirectory/tree/main)
 
 <h2>Certifications</h2>
-
+CompTIA A+
+Google IT Support Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
